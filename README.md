@@ -70,27 +70,22 @@ Organization
 	* HEO
 	* Operating temperature of the sensors
 
-**Instruments to be used**
-
-> __TELESCOPE__  : The heart of the instrument payload is the telescope, designed to offer diffraction limited performance over a fieldview of 0.5 square degrees.
-Serve dunque un gruppo ottico che ci consenta di raccogliere la luce.
-Usiamo lenti o specchi ?
-
-* TRADE OFF
-
-	_Lenti_ : alterazione cromatica,
-	_Specchi_ :  COMA
-
-> __SPECTROMETER__
+__INSTRUMENTS TO BE USED__
 
 
-**Justifications**
+* TELESCOPE  : The heart of the instrument payload is the telescope, designed to offer diffraction limited performance over a fieldview of 0.5 square degrees.
+Serve dunque un gruppo ottico che ci consenta di raccogliere la luce.Usiamo lenti o specchi ?
+	* TRADE OFF
+		* _Lenti_ : alterazione cromatica  
+		* _Specchi_ :  COMA  
+
+* SPECTROMETER
+
+
+**JUSTIFICATIONS**
 
 * We want to use the infrared vogliovedere ossigeno, piu facile vedere rispetto a visibile, voglio vedere redshift, è quello classicamente usato di più, nubi assorbono luce. [4]
 * Telescopio : voglio osservare gravity lenses
-
-**Who is doing what**
-
 
 SIMILAR MISSIONS
 -------------------------------
@@ -105,7 +100,8 @@ CONCEPT DESCRIPTION
 -------------------------------------
 
 
-**[REFERENCES]**
+[REFERENCES]
+-------------------------------------
 
 [1]  EUCLID_RB_Issue_1-1_2011-09-29HighQ.pdf
 
